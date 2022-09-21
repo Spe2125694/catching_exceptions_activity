@@ -6,8 +6,6 @@ public class ExceptionActivity {
 
     public static void main(String[] args) {
 
-        System.out.println("What it do?");
-
         // try-catch
         try {
             // happy path - all this executes if no exception thrown
